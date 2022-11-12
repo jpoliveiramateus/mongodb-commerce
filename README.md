@@ -1,14 +1,14 @@
-# MongoDB Commerce
+# 🍟 MongoDB Commerce
 
-## Contexto
+## 📄 Sobre
 
 Este repositório se trata de uma série de aquivos Javascript com queries para resolver desafios propostos pela [Trybe](https://www.betrybe.com/) de consulta, inserção, atualização e deleção de dados em um banco de dados MongoDB chamado “commerce” que contem informações de lanches do McDonald's em uma coleção chamada “produtos”.
 
 Este banco de dados possui informações como, nome, ingredientes, valores nutricionais e quantidade de vendas e curtidas de alguns produtos.
 
-Seguem abaixo a descrição da funcionalidade de cada query em cada arquivo de desafio (indo do 1 ao 32) presente na pasta challenges deste repositório:
+Seguem abaixo a descrição da funcionalidade de cada query em cada arquivo de desafio (indo do 1 ao 32) presente na pasta challenges deste repositório.
 
-## Funcionalidade de Cada Desafio.
+## Funcionalidade de cada desafio:
 
 <details>
 	<summary>
